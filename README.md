@@ -12,7 +12,6 @@ theme: jekyll-theme-dinky
 | DAY 1 | DAY 2 |
 | Science activity | Relax |
 
-
-https://www.youtube.com/watch?v=R6JdoWT75HA
+https://youtu.be/R6JdoWT75HA
 
 
