@@ -14,7 +14,9 @@ theme: jekyll-theme-dinky
 | DAY 1 | DAY 2 |
 | Science activity | Relax |
 
-https://youtu.be/R6JdoWT75HA
+
+![Torii Gates](https://blog.japanwondertravel.com/wp-content/uploads/2020/12/cait-ellis-tNUCxkvafzY-unsplash-scaled.jpg)
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R6JdoWT75HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
