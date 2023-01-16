@@ -1,5 +1,5 @@
 # **"The history Of World War 1"**
-By Vince Nino N. Deniga
+
 
 World War I (28 July 1914 – 11 November 1918), often abbreviated as WWI, was one of the deadliest global conflicts in history. The main belligerents included much of Europe and their colonial empires, the Russian Empire, the United States, the Ottoman Empire and the Japanese Empire, with fighting occurring throughout Europe, the Middle East, Africa, the Pacific, and parts of Asia. An estimated 9 million soldiers were killed in combat, plus another 23 million wounded, while 5 million civilians died as a result of military action, hunger, and disease.[2] Millions more died in genocides within the Ottoman Empire and in the 1918 influenza pandemic, which was exacerbated by the movement of combatants during the war.[3][4]
 
@@ -22,9 +22,39 @@ Their luck ran out later that day, however, when their driver inadvertently drov
  
  ![the assassination of archduke franz ferdinand of austria](https://www.history.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTU3OTIzNjYwOTQzMjcxODg2/the-assassination-of-archduke-franz-ferdinand-100-years-agos-featured-photo.jpg)
  
+ **The Battle of Yser**
+ 
+The Battle of the Yser (French: Bataille de l'Yser, Dutch: Slag om de IJzer) was a battle of the First World War that took place in October 1914 between the towns of Nieuwpoort and Diksmuide, along a 35 km (22 mi) stretch of the Yser River and the Yperlee Canal, in Belgium. The front line was held by a large Belgian force, which halted the German advance in a costly defensive battle.
+
+The victory at the Yser allowed Belgium to retain a small strip of territory, with Germany in control of 95 per cent of Belgian territory, which made King Albert a Belgian national hero, sustained national pride and provided a venue for commemorations of heroic sacrifice for the next hundred years.
+
+![The Battle of Yser](https://upload.wikimedia.org/wikipedia/commons/5/5e/Battle_of_the_Yser2.jpg)
+
+On 16 October Diksmuide, garrisoned by Belgian and French troops under Colonel Alphonse Jacques, was attacked. Despite many casualties, the Belgians and French held the town. The press, politicians, literary figures and the military manipulated public opinion, making out that the defence of the town was strategically-important and heroic.
+
+
+Yser inundations, 1914
+On 18 October, the German offensive began and overran Allied troops from Nieuwpoort southwards to Arras. The objective was to defeat the Belgian and French armies and to deprive the British of access to Calais, Boulogne and Dunkirk. The III Reserve Corps attacked Belgian defences from Diksmuide to the sea, regardless of loss. The Germans captured advanced posts at Keiem, Schoore and part of Mannekensvere and reached the Yser, despite bombardments from the Anglo-French flotilla, which engaged German troops along the coast as far as Middelkerke. The 4th Ersatz Division was forbidden to cross the Yser at Nieuwpoort because of the shell-fire from the Allied ships.[26]
+
+On 21 October, the Germans established a small bridgehead on the west bank, despite a counter-attack by the French 42nd Division, which had just arrived and the last bridge was blown on 23 October. Diksmuide was constantly bombarded and attacked but the defenders managed to hold on. Grand Quartier Général, the French high command, planned to flood the land to obstruct the Germans, which would trap the Belgian army between the flood and the Germans or force them to abandon the last part of unoccupied Belgium. The plan was postponed because the Belgian army was preparing to flood the area between the Yser and its tributary canals.[27]
+
+On 25 October, the German pressure on the Belgians was so great that a decision was taken to inundate the Belgian front line. After an abortive attempt on 21 October, the Belgians managed to open the sluices at Nieuwpoort during the nights of 26–30 October, during high tides, steadily raising the water level until an impassable flooded area was created of about one mi (2 km) wide, stretching as far south as Diksmuide.[27][a]
+
+The Germans attacked again on the Yser front on 30 October, overran the Belgian second line and reached Ramskapelle and Pervijze.[28] Belgian and French counter-attacks recovered Ramskapelle and the final attack, planned for the next day was called off when the Germans realised that the land behind them was flooding. The Germans withdrew in the night of 30/31 October.[29] On 10 November, Diksmuide fell and the fighting continued further south until 22 November, in the First Battle of Ypres.
+
+ 
+ **The Battle of Verdun Hights**
+ 
+ The Battle of Verdun (French: Bataille de Verdun [bataj də vɛʁdœ̃]; German: Schlacht um Verdun [ʃlaxt ʔʊm ˈvɛɐ̯dœ̃]) was fought from 21 February to 18 December 1916 on the Western Front in France. The battle was the longest of the First World War and took place on the hills north of Verdun-sur-Meuse. The German 5th Army attacked the defences of the Fortified Region of Verdun (RFV, Région Fortifiée de Verdun) and those of the French Second Army on the right (east) bank of the Meuse. Using the experience of the Second Battle of Champagne in 1915, the Germans planned to capture the Meuse Heights, an excellent defensive position, with good observation for artillery-fire on Verdun. The Germans hoped that the French would commit their strategic reserve to recapture the position and suffer catastrophic losses at little cost to the German infantry.
+
+Poor weather delayed the beginning of the attack until 21 February but the Germans captured Fort Douaumont in the first three days. The advance then slowed for several days, despite inflicting many French casualties. By 6 March, 20+1⁄2 French divisions were in the RFV and a more extensive defence in depth had been organised. Philippe Pétain ordered there to be no retreat and that German attacks were to be counter-attacked, despite this exposing French infantry to the German artillery. By 29 March, French guns on the west bank had begun a constant bombardment of Germans on the east bank, causing many infantry casualties. The German offensive was extended to the west bank of the Meuse to gain observation and eliminate the French artillery firing over the river but the attacks failed to reach their objectives.
+
+In early May, the Germans changed tactics again and made local attacks and counter-attacks; the French recaptured part of Fort Douaumont but then the Germans ejected them and took many prisoners. The Germans tried alternating their attacks on either side of the Meuse and in June captured Fort Vaux. The Germans advanced towards the last geographical objectives of the original plan, at Fleury-devant-Douaumont and Fort Souville, driving a salient into the French defences. Fleury was captured and the Germans came within 2.5 mi (4 km) of the Verdun citadel but in July the offensive was cut back to provide troops, artillery and ammunition for the Battle of the Somme, leading to a similar transfer of the French Tenth Army to the Somme front. From 23 June to 17 August, Fleury changed hands sixteen times and a German attack on Fort Souville failed. The offensive was reduced further but to keep French troops away from the Somme, ruses were used to disguise the change.
+
+In September and December, French counter-offensives recaptured much ground on the east bank and recovered Fort Douaumont and Fort Vaux. The battle lasted for 302 days, the longest and one of the most costly in human history. In 2000, Hannes Heer and Klaus Naumann calculated that the French suffered 377,231 casualties and the Germans 337,000, a total of 714,231 and an average of 70,000 a month. In 2014, William Philpott wrote of 976,000 casualties in 1916 and 1,250,000 in the vicinity of Verdun. In France, the battle came to symbolise the determination of the French Army and the destructiveness of the war.
+ 
  ![The Battle Of Verdun](https://upload.wikimedia.org/wikipedia/commons/5/5d/Battle_of_Verdun_map.png)
  
 ![The Battle Of Verdun](https://cdn.britannica.com/36/188636-050-5F9A5DFC/soldiers-French-front-line-Battle-of-Verdun-1916.jpg)
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kifIfSsGboY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
