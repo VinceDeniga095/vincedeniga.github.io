@@ -9,10 +9,10 @@ The German strategy in 1914 was to concentrate its forces on defeating France in
 
 In Russia, the Bolsheviks seized power in the 1917 October Revolution and exited the war with the March 1918 Treaty of Brest-Litovsk, freeing up large numbers of German troops. Germany used these additional resources to launch the March 1918 offensive, but was halted by stubborn Allied defence, heavy casualties, and supply shortages. When the Allies began the Hundred Days Offensive in August, the Imperial German Army continued to fight hard but could only slow the advance, not stop it.[6] Towards the end of 1918, the Central Powers began to collapse; Bulgaria signed an armistice on 29 September, followed by the Ottomans on 31 October, then Austria-Hungary on 3 November. Isolated, facing the German Revolution at home and a military on the verge of mutiny, Kaiser Wilhelm II abdicated on 9 November, and the new German government signed the Armistice of 11 November 1918, bringing the conflict to a close. The Paris Peace Conference of 1919–1920 imposed various settlements on the defeated powers, with the best-known of these being the Treaty of Versailles. The dissolution of the Russian Empire in 1917, the German Empire in 1918, the Austria-Hungarian Empire in 1920, and the Ottoman Empire in 1922, led to numerous uprisings and the creation of independent states, including Poland, Czechoslovakia, and Yugoslavia. For reasons that are still debated, failure to manage the instability that resulted from this upheaval during the interwar period ended with the outbreak of World War II in September 1939.
 
-The Man's death that started the war
-The assasination that started the war
 
 **The murder of Archduke Franz Ferdinand outraged Austria-Hungary**
+
+*The Man's death that started the war*
 
 In June 1914, Austrian Archduke Franz Ferdinand and his wife Sophie traveled to Bosnia—which had been annexed by Austria-Hungary—for a state visit.
 
