@@ -22,6 +22,3 @@ Their luck ran out later that day, however, when their driver inadvertently drov
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kifIfSsGboY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-[`History Of World War 1`](https://www.history.com/topics/world-war-i/world-war-i-history)
